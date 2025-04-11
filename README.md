@@ -1,4 +1,4 @@
-#Bem vindo ao meu perfil! 👋
+# Seja bem vindo ao meu perfil! 👋
 
 ![Image](https://github.com/user-attachments/assets/032d128a-913d-4832-babe-7efd61537160)
 
@@ -6,12 +6,12 @@ Sou uma Cientista de Dados em formação pela FIAP (Faculdade de Informática e 
 
 Tenho experiência em análise de dados, consultas em bancos de dados, acompanhamento de KPIs e desenvolvimento de Dashboards.
 
-💻 Habilidades técnicas:
+## 💻 Habilidades técnicas:
 - SQL, modelagem de banco de dados, Python, Power BI e Excel.
 - Experiência no desenvolvimento de soluções analíticas, utilizando bibliotecas como Pandas e Seaborn.
 - Conhecimento em AWS e visualização de dados.
 
-🥇 Conquistas:
+## 🥇 Conquistas:
 - Contribuí para o acompanhamento de controles de Garantia de Receita, resultando em um impacto de mais de R$ 2.000.000 para a empresa em poucos meses.
 
 🎯 Tenho grande interesse em resolver problemas complexos e fornecer soluções baseadas em dados, visando sempre otimizar processos e agregar valor estratégico.
