@@ -1,4 +1,4 @@
-# Seja bem vindo ao meu perfil! 👋
+# Boas vindas ao meu perfil! 👋
 
 ![Image](https://github.com/user-attachments/assets/032d128a-913d-4832-babe-7efd61537160)
 
